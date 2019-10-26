@@ -13,7 +13,11 @@ The main modules of the work (haptic stimulus defintion, sensory signals generat
 
 Demonstrations of the ATLAS robot performing some exploration tasks (initial tests to the ROS packages that were implemented): 
 
-- [Demo video 01](https://youtu.be/9PZH4t3UNcM):
+- [Demo video 01](https://youtu.be/gAvs1_tl2hs):
+
+[![alt text](https://img.youtube.com/vi/gAvs1_tl2hs/0.jpg)](https://www.youtube.com/watch?v=gAvs1_tl2hs)
+
+[Demo video 02](https://youtu.be/9PZH4t3UNcM):
 
 [![alt text](https://img.youtube.com/vi/9PZH4t3UNcM/0.jpg)](https://www.youtube.com/watch?v=9PZH4t3UNcM)
 
